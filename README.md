@@ -1,2 +1,3 @@
-# PGM-CCVAE
-Study of the Capturing Characteristic VAE. Probabilistic Graphical Model MVA course 2023
+# Study of the Capturing Characteristic VAE. Probabilistic Graphical Model MVA course 2023
+
+
